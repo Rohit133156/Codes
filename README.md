@@ -97,12 +97,9 @@ Default Credentials
         Username: mandelashaban593
         Password: simple100
 
-The repository serves as a starting point for professional projects and is part of my portfolio. Feel free to use it and provide feedback, code improvements, or suggestions.
 
-vbnet
 
 
 This organized format ensures that each section is clearly delineated with appropriate headings and subheadings, making it easier for readers to navigate and understand the content. The use of bullet points and numbered steps enhances readability and clarity of the instructions provided.
 
-# Money-Management
-# Money-Management
+
